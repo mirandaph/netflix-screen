@@ -87,7 +87,7 @@ h4 {
 /* Conteúdo principal - Destaque */
 
 .main {
-    background-image: url(/img/st-background.png);
+    background-image: url(../img/st-background.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
